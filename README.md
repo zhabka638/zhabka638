@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zhabka&style=for-the-badge&color=bd93f9&label=VISITS" alt="views">
-  <img src="https://img.shields.io/github/followers/zhabka638?style=for-the-badge&color=8be9fd&logo=github" alt="followers">
+  <img src="https://img.shields.io/github/followers/zhabka?style=for-the-badge&color=8be9fd&logo=github" alt="followers">
 </p>
 
 <p align="center">
