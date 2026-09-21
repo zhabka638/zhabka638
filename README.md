@@ -24,7 +24,7 @@
       |o_o |         ------------------
       |:_/ |         OS:     Manjaro Linux
      //   \ \        DE:     GNOME
-    (|     | )        Uni:    Прикладная информатика, 2 курс
+    (|     | )       Uni:    Прикладная информатика, 2 курс
    /'\_   _/`\       Langs:  HTML, CSS, JS, Python, C++
    \___)=(___/
 ```
@@ -53,33 +53,19 @@ total 0
 
 ## 🎯 `~$ cat now.txt`
 
-- 📚 Учусь: HTML, CSS, JavaScript, Python, C++
+- 📚 Изучаю: HTML, CSS, JavaScript, Python, C++
 - 🎓 Прикладная информатика, 2 курс
-- 🐧 Живу на Manjaro GNOME
-- 🚀 Цель: первые собственные проекты и стажировка
+- 🐧 Живу на линуксе
 
-## 📊 `~$ git stats`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhabka638&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="статистика">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhabka638&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="языки">
-</p>
+## 🏆 `~$ ls badges/`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zhabka638&theme=dracula&hide_border=true&background=0d1117" alt="streak">
+  <img src="https://img.shields.io/github/followers/zhabka638?style=for-the-badge&color=8be9fd&logo=github" alt="followers">
+  <img src="https://img.shields.io/github/stars/zhabka638?style=for-the-badge&color=bd93f9&logo=github&label=stars" alt="stars">
+  <img src="https://img.shields.io/github/join-date/zhabka638?style=for-the-badge&color=50fa7b" alt="joined">
 </p>
 
-## 🏆 `~$ ls trophies/`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhabka638&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies">
-</p>
-
-## 📈 `~$ git log --graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhabka638&theme=react-dark&hide_border=true&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ffffff" alt="activity graph" width="100%">
-</p>
 
 ## 🐍 `~$ ./snake`
 
