@@ -68,6 +68,26 @@ total 0
   </picture>
 </p>
 
-<p align="center"><sub>$ echo "спасибо, что заглянули" && exit 0</sub></p>
+## ⚙️ `~$ systemctl status zhabka`
+
+```
+● zhabka.service - Student Life
+     Loaded: loaded (/etc/systemd/system/zhabka.service; enabled)
+     Active: active (running) since 1st semester
+   Main PID: 1 (learning)
+      Tasks: 5 (HTML, CSS, JS, Python, C++)
+     Memory: 99% занято дедлайнами
+        CPU: кофе
+```
+
+<details>
+<summary><code>$ sudo rm -rf /</code></summary>
+
+```
+rm: it is dangerous to operate recursively on '/'
+rm: use --no-preserve-root to override this failsafe
+```
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer">
