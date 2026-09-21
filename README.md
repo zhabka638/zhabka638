@@ -55,7 +55,6 @@ total 0
 <p align="center">
   <img src="https://img.shields.io/github/followers/zhabka638?style=for-the-badge&color=8be9fd&logo=github" alt="followers">
   <img src="https://img.shields.io/github/stars/zhabka638?style=for-the-badge&color=bd93f9&logo=github&label=stars" alt="stars">
-  <img src="https://img.shields.io/github/join-date/zhabka638?style=for-the-badge&color=50fa7b" alt="joined">
 </p>
 
 
